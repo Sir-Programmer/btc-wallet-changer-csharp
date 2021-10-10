@@ -1,0 +1,11 @@
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\bin\Debug\BTC Wallet Changer.exe.config
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\bin\Debug\BTC Wallet Changer.exe
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\bin\Debug\BTC Wallet Changer.pdb
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC Wallet Changer.csproj.AssemblyReference.cache
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC Wallet Changer.csproj.SuggestedBindingRedirects.cache
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC_Wallet_Changer.Form1.resources
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC_Wallet_Changer.Properties.Resources.resources
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC Wallet Changer.csproj.GenerateResource.cache
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC Wallet Changer.csproj.CoreCompileInputs.cache
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC Wallet Changer.exe
+D:\Programming\BTCWalletChanger\BTC Wallet Changer\BTC Wallet Changer\obj\Debug\BTC Wallet Changer.pdb
